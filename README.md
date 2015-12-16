@@ -1,7 +1,7 @@
 # Project Name
 NOVATERRA ONG
 
-Diseño de Placa Conmemorativa "Reconocimiento a una falla"
+Diseño Gráfico: Placa Conmemorativa "Reconocimiento a una falla"
 
 ## REALIZADO CON
 
